@@ -3,6 +3,7 @@ This is a login page whose purpose is not to allow login if you do not apply the
   1) The password should be the same as the battery percentage.
   2) The user needs to give permission to the camera.
   3) The user should face north.
+     
 If all the conditions are applied then the user will receive a message that the login was successful.
 
 # camera permission:
